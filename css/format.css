@@ -16,3 +16,15 @@ header {
     grid-area: header;
 }
 
+.top-nav {
+    grid-area: nav;
+}
+
+.products {
+    grid-area: prod;
+}
+
+footer {
+    grid-area: footer;
+}
+
